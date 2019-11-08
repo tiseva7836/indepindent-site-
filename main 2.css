@@ -1,0 +1,37 @@
+@charset "utf-8";
+a   {
+    font-size: 25px;
+    color: #0085AE;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    font-style: normal;
+    text-decoration: none;
+    border: 1.5px solid #00799E;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    color: #004187;
+}
+p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+h2 {
+    color: #005BBE;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+p a {
+    color: #0085AE;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    border-style: none;
+}
+body p img {
+    border: thin solid #000000;
+}

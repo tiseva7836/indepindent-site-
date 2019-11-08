@@ -1,0 +1,98 @@
+@charset "utf-8";
+body h1 a {
+    color: #00799E;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    font-size: 25px;
+    border: 1.5px solid #00799E;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+body h1 {
+    color: #004187;
+}
+p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+h2 {
+    color: #FFFFFF;
+    font-size: 40px;
+    border: 1.5px solid #B8B8B8;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    width: 210px;
+    background-origin: content-box;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    clear: none;
+    float: none;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    text-align: center;
+    background-image: url(ocean_water);
+    background-size: cover;
+}
+body p a {
+    color: #0085AE;
+    text-decoration: none;
+}
+#forums {
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #004FA6;
+    background-image: url(ocean_water);
+    width: 800px;
+    height: auto;
+    border: thin solid #113F64;
+    letter-spacing: 5px;
+}
+#surf {
+    width: 800px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #004FA6;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    border: thin solid #113F64;
+    background-image: url(ocean_water);
+    margin-top: 45px;
+    font-variant: normal;
+    letter-spacing: 5px;
+}
+
+#Offshore {
+    width: 800px;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #004FA6;
+    margin-top: 45px;
+    border: thin solid #113F64;
+    background-image: url(ocean_water);
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+    text-shadow: 0px 0px;
+    letter-spacing: 5px;
+}
+#freshwater {
+    width: 800px;
+    margin-top: 45px;
+    background-image: url(ocean_water);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #004FA6;
+    text-align: center;
+    border: thin solid #113F64;
+}
